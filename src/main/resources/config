@@ -1,0 +1,3 @@
+csvPath: "src/main/resources/happines2017.csv"
+dbDriver: "org.sqlite.JDBC"
+dbURL: "jdbc:sqlite:src/main/resources/JavaUlearn.db"
